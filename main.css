@@ -37,26 +37,32 @@ body {
 
 #box .one { 
   -webkit-transform: translateZ(125px);
+  background: red;
 }
 
 #box .two { 
   -webkit-transform: rotateX(-90deg) translateZ(125px);
+  background: green;
 }
 
 #box .three {
   -webkit-transform: rotateY(90deg) rotateX(90deg) translateZ(125px);
+  background: blue;
 }
 
 #box .four {
   -webkit-transform: rotateY(180deg) rotateZ(90deg) translateZ(125px);
+  background: yellow;
 }
 
 #box .five { 
   -webkit-transform: rotateY(-90deg) rotateZ(90deg) translateZ(125px);
+  background: white;
 }
 
 #box .six {
   -webkit-transform: rotateY(90deg) translateZ(125px);
+  background: black;
 }
 
 
