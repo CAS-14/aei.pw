@@ -76,5 +76,5 @@ body {
   83% { -webkit-transform: rotateX(135deg);}
   */
   
-  100% { -webkit-transform: rotateX(180deg);}
+  100% { -webkit-transform: rotateY(360deg);}
 }
